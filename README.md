@@ -132,9 +132,9 @@ Experiments and applications exploring how **Artificial Intelligence and automat
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdneyCorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdneyCorrea&show_icons=true&theme=dark&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdneyCorrea&layout=compact&langs_count=8&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdneyCorrea&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
