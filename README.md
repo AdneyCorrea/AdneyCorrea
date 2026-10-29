@@ -1,193 +1,189 @@
 # 👋 Hello, I'm Adney!
 
-### `Software Engineering Student` • `IT & Hardware` • `Automation` • `Artificial Intelligence`
+### Software Engineering Student · Software Development · Automation
 
-I'm a **Software Engineering student** and Technology Professional with hands-on experience in **IT hardware, technical support, troubleshooting, diagnostics, and IT infrastructure**.
+I'm a **Software Engineering student** focused on building practical applications and automating processes.
 
-I'm currently expanding my expertise in **software development, process automation, and Artificial Intelligence**, combining practical IT experience with software engineering principles to build efficient, reliable, and scalable solutions.
+My projects include **automated Windows deployment**, **quality control tools**, **workstation testing**, and a **packaging planning application with 3D visualization**.
+
+I'm expanding my knowledge of software development, databases, software architecture, and Artificial Intelligence by applying what I learn to real projects.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Bachelor's Degree student in **Software Engineering**
-* 💻 Experience with **IT Hardware & Infrastructure**
-* 🔧 Hardware assembly, diagnostics, maintenance and troubleshooting
-* ⚙️ Interested in **process automation and system optimization**
-* 🤖 Exploring **Artificial Intelligence and AI-powered applications**
-* 🌐 Studying **Front-end & Back-end Development**
-* 🗄️ Learning and working with **Databases**
-* 🧠 Strong interest in **problem solving and technology**
-* 📚 Continuous learner through practical projects and courses
-
----
-
-## 🚀 What I'm Currently Learning
-
-```text
-Software Engineering
-├── Programming & Algorithms
-├── Software Development
-├── Web Development
-│   ├── Front-end
-│   └── Back-end
-├── Databases
-├── Software Architecture
-├── Automation
-└── Artificial Intelligence
-```
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 Programming & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### ☁️ Backend & Cloud
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ⚙️ Automation & Scripting
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
-
-### 🔧 Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-## 🤖 Artificial Intelligence
-
-I'm particularly interested in applying **Artificial Intelligence to real-world problems**, exploring areas such as:
-
-* AI-powered applications
-* Prompt Engineering
-* AI-assisted development
-* Process automation
-* Intelligent tools and workflows
-* Integration of AI into software solutions
-
-My goal is to move beyond simply using AI tools and understand how they can be **integrated into practical, reliable and scalable systems**.
-
----
-
-## 🔧 IT & Hardware
-
-My technical background also includes hands-on experience with:
-
-* 🖥️ Desktop assembly and configuration
-* 🔍 Hardware diagnostics and troubleshooting
-* ⚡ Performance and stability testing
-* 🧩 Component compatibility analysis
-* 🛠️ Maintenance and technical support
-* 🎮 Gaming and high-end systems
-* 🖥️ Servers and advanced workstations
-* 💻 Notebooks, smartphones and consoles
-* ⚙️ Hardware/software integration
-
-This experience gives me a practical perspective when developing and troubleshooting software and technology solutions.
+- 🎓 Studying **Software Engineering**.
+- 💻 Developing **web and desktop applications**.
+- ⚙️ Creating tools for **process automation**.
+- ☕ Working with **Java and Spring Boot** in the inBox project.
+- 📱 Building applications with **Flutter and Dart**.
+- 🗄️ Studying **databases, SQL, and data modeling**.
+- 🧪 Learning about **software architecture and automated testing**.
+- 🤖 Exploring **AI-assisted development and AI integrations**.
+- 📚 Learning through practical projects and continuous study.
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔧 PC & Hardware Automation
+### 📦 [inBox](https://github.com/AdneyCorrea/inBox)
 
-Projects focused on **Windows deployment, automation, hardware detection and system configuration**, combining PowerShell, Windows tools and automation techniques.
+A packaging planning application that recommends boxes based on product dimensions and quantities, with a 3D visualization of the suggested arrangement.
+
+**Features:**
+
+- Product and box catalogs.
+- Packaging recommendations with space reserved for protection.
+- Interactive 3D visualization.
+- Data import, export, and backups.
+- Preparation for future ERP integration.
+
+**Technologies:**  
+`Java` `Spring Boot` `Maven` `JavaScript` `HTML` `CSS` `H2` `PostgreSQL`
+
+### 💿 [Windows Deployment Automation](https://github.com/AdneyCorrea/Windows-Dual-Boot)
+
+An offline solution that automates Windows installation, driver installation, and post-installation configuration.
+
+**Features:**
+
+- Windows 10 or Windows 11 selection based on TPM 2.0 availability.
+- Automated installation using Windows PE and DISM.
+- Offline driver installation based on hardware identification.
+- Automated post-installation tasks.
+- Integration with quality control tools.
+
+**Technologies:**  
+`PowerShell` `Batch` `Windows PE` `DISM` `PnPUtil`
+
+### ✅ [Controle de Qualidade](https://github.com/AdneyCorrea/Controle-de-Qualidade)
+
+An application that displays system information, identifies driver issues, and supports computer quality inspections.
+
+**Features:**
+
+- System specifications displayed in a single interface.
+- Identification of devices with driver issues.
+- Integration with the offline driver updater.
+- Visual approval status to support inspection.
+- An interface designed for photographic records.
+
+**Focus:**  
+`Quality Control` `System Diagnostics` `Driver Verification` `Automation`
+
+### 🧪 WorkstationTest
+
+An application built with Flutter to support workstation testing and hardware validation.
 
 **Focus:**
-`PowerShell` `Windows` `Automation` `Hardware` `Deployment`
+
+- Workstation testing.
+- Hardware validation.
+- Support for technical inspections.
+
+**Technologies:**  
+`Flutter` `Dart`
 
 ---
 
-### 📊 Benchmark & Test Management
+## 🛠️ Technologies & Tools
 
-Development of tools designed to organize, automate and track **hardware benchmark and testing procedures**, improving consistency and efficiency during technical evaluations.
+Technologies I use in projects or explore through practical study.
 
-**Focus:**
-`Software Development` `UI/UX` `Automation` `Hardware Testing`
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 Web & Back-end Development
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### 📱 Desktop & Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-09476B?style=for-the-badge)
+
+### ☁️ Cloud & Deployment
+
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ⚙️ Automation & Scripting
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge)
+![Windows PE](https://img.shields.io/badge/Windows_PE-0078D6?style=for-the-badge)
+
+### 🔧 Development & Build Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
-### 🤖 AI & Automation Projects
+## 📚 Currently Studying
 
-Experiments and applications exploring how **Artificial Intelligence and automation** can be combined to simplify repetitive tasks, improve workflows and create smarter software solutions.
-
-**Focus:**
-`Artificial Intelligence` `Automation` `Prompt Engineering`
+- **Software Engineering:** requirements, development practices, and maintainable code.
+- **Java and Spring Boot:** back-end development and REST APIs.
+- **JavaScript:** web interfaces and application logic.
+- **Flutter and Dart:** application development.
+- **Databases:** SQL, data modeling, and integration.
+- **Software Architecture:** application structure and separation of responsibilities.
+- **Software Testing:** automated tests and application reliability.
+- **Artificial Intelligence:** AI-assisted development and software integrations.
 
 ---
 
-## 📊 GitHub Statistics
+## 🤖 Artificial Intelligence
 
-<div align="center">
+I'm interested in understanding how Artificial Intelligence can be integrated into practical software solutions.
 
-<img src="https://github-stats-extended.vercel.app/api?username=AdneyCorrea&show_icons=true&theme=github_dark&hide_border=true" />
+My current interests include:
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdneyCorrea&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+- AI-assisted software development.
+- Integration of AI services into applications.
+- Automation of repetitive workflows.
+- Prompt design and evaluation of generated results.
 
 ---
 
 ## 🎯 Professional Goals
 
-I'm continuously working toward becoming a well-rounded **Software Engineer**, combining my background in IT and hardware with software development, automation and Artificial Intelligence.
+My goal is to grow as a **Software Engineer**, building useful applications and improving my ability to design, develop, test, and maintain software.
 
-I'm particularly interested in opportunities involving:
+I'm particularly interested in:
 
-```text
-Software Engineering
-IT Infrastructure
-Automation
-Artificial Intelligence
-Systems Development
-Technical Problem Solving
-Process Optimization
-```
-
----
-
-## 📚 Continuous Learning
-
-> **"The best way to learn technology is to build with it."**
-
-I believe in learning through **practice, experimentation and real-world problem solving**.
-
-I'm constantly developing new projects, exploring technologies and improving my understanding of software engineering.
+- Software development.
+- Back-end development.
+- Desktop applications.
+- Process automation.
+- System integration.
+- Applied Artificial Intelligence.
 
 ---
 
 ## 🌎 Let's Connect
 
-I'm always open to connecting with people interested in **technology, software engineering, hardware, automation and Artificial Intelligence**.
+I'm open to exchanging ideas about **software development, automation, technology, and practical projects**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adneycorrea/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AdneyCorrea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adneycorrea/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdneyCorrea)
 
 ---
 
-<div align="center">
-
-### 💻 Building. Learning. Automating. Evolving.
-
-</div>
+> Learning by building software that solves real problems.
