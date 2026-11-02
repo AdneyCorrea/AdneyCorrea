@@ -35,11 +35,12 @@ A packaging planning application that recommends boxes based on product dimensio
 - Product and box catalogs.
 - Packaging recommendations with space reserved for protection.
 - Interactive 3D visualization.
-- Data import, export, and backups.
-- Preparation for future ERP integration.
+- Local catalog persistence in JSON files.
+- Offline execution with the interface and Vue included locally.
+- Portable Windows package with an included Java runtime.
 
 **Technologies:**  
-`Java` `Spring Boot` `Maven` `JavaScript` `HTML` `CSS` `H2` `PostgreSQL`
+`Java` `Spring Boot` `Maven` `JavaScript` `Vue` `HTML` `CSS` `JSON`
 
 ### 💿 [Windows Deployment Automation](https://github.com/AdneyCorrea/Windows-Dual-Boot)
 
@@ -71,18 +72,23 @@ An application that displays system information, identifies driver issues, and s
 **Focus:**  
 `Quality Control` `System Diagnostics` `Driver Verification` `Automation`
 
-### 🧪 WorkstationTest
+### 🧪 [BenchTrack](https://github.com/AdneyCorrea/BenchTrack)
 
-An application built with Flutter to support workstation testing and hardware validation.
+A Flutter application for Windows and Android that tracks workstation assembly, test progress, and approval.
 
-**Focus:**
+**Features:**
 
-- Workstation testing.
-- Hardware validation.
-- Support for technical inspections.
+- Workstation and component registration.
+- Tracking of 48-hour test periods, history, and results.
+- Approval and rejection records.
+- Issue records with file attachments.
+- Dashboard organized by equipment status.
+- Authentication with Supabase Auth and file storage with Supabase Storage.
+
+The application tracks the testing process and records results; its timer does not run hardware stress tests.
 
 **Technologies:**  
-`Flutter` `Dart`
+`Flutter` `Dart` `Supabase` `PostgreSQL`
 
 ---
 
